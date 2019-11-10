@@ -30,7 +30,7 @@ class App extends Component {
     this.setState({ counters: counters});
     this.handleSum(counters);
   };
-  handleIncrement = counter => { //this does not work yet
+  handleIncrement = counter => {
     const counters = [...this.state.counters];
     const index = counters.indexOf(counter)
     counters[index] = {...counter}
@@ -39,7 +39,7 @@ class App extends Component {
     this.setState({counters: counters})
     this.handleSum(counters)
   };
-  handleSum = (counters) => {it
+  handleSum = (counters) => {
     let sum = 0;
     counters.forEach(c => {
       sum += c.value;
