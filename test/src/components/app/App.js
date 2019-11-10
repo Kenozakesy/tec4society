@@ -30,6 +30,13 @@ class App extends Component {
     this.setState({ counters: counters});
     this.handleSum(counters);
   };
+  handleAdd = () => { //this does not work yet
+    const counters = [...this.state.counters];
+    const length = counters.length;
+    const idNumber = Math.max.apply(Math, this.state.counters.map(function(o) { return o.id; })) + 1
+    counters[length] = { id: idNumber, value: 0};
+    this.setState({ counters: counters});
+  };
   handleIncrement = counter => {
     const counters = [...this.state.counters];
     const index = counters.indexOf(counter)
@@ -56,6 +63,7 @@ class App extends Component {
             <CounterList
                 counters={this.state.counters}
                 onReset={this.handleReset}
+                onAdd={this.handleAdd}
                 onIncrement={this.handleIncrement}
                 onDelete={this.handleDelete}
             />

@@ -6,11 +6,12 @@ class CounterList extends Component {
     onReset;
 
     render() {
-        const { onReset, onDelete, onIncrement } = this.props
+        const { onReset, onDelete, onIncrement, onAdd } = this.props
 
         return (
             <div>
                 <button className="btn btn-primary btn-sm m-2" onClick={onReset}>Reset</button>
+                <button className="btn btn-primary btn-sm m-2" onClick={onAdd}>Add</button>
                 { this.props.counters.map(counter =>
                     <Counter
                         key={counter.id}
