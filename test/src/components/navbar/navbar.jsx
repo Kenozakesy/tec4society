@@ -12,6 +12,10 @@ class NavBar extends Component {
                         <span className="badge badge-pill badge-secondary">
                             {this.props.totalCounters}
                         </span>
+
+                        {/*<button className="btn btn-outline-secondary btn-sm m-2">Home</button>|*/}
+                        {/*<button className="btn btn-outline-secondary btn-sm m-2">Users</button>|*/}
+                        {/*<button className="btn btn-outline-secondary btn-sm m-2">Something</button>*/}
                     </a>
                 </nav>
             </div>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71248d60-c25b-440a-bbda-3af49dd24305" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../mock-up/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/.idea/mock-up.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/assets/images/logo-groen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/assets/images/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/assets/images/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/components/app/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/components/app/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/components/app/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/components/app/Logo/logo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/components/app/navbar/navBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/components/app/navbar/navBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/components/loginPage/loginPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/components/loginPage/loginPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/components/request/request.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/components/request/request.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/components/requestList/requestList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/components/requestPage/requestPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/components/requestPage/requestPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-up/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/routing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/404/notFound.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contact/contact.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/users/users.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../test/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../test/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/components/counterList/counter/counter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/components/counterList/counter/counter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/components/navbar/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/components/navbar/navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TTqFWB2DAF79lrgrfgs5tcwQYq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="go" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KoenW\Documents\School\Github\tec4society\routing\src\components\app" />
+      <recent name="C:\Users\KoenW\Documents\School\Github\tec4society\routing\src\assets\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

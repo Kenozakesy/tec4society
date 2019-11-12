@@ -22,10 +22,6 @@ class Counter extends Component {
         classes += this.props.counter.value === 0 ? "warning" : "primary"
         return classes;
     };
-    // runs when the page is updates
-    componentDidUpdate(prevProps, prevState, snapshot) {
-
-    };
 
     //HTML
     render() {
