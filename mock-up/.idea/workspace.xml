@@ -2,72 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a7360ab-dced-43d1-9559-3c2476b508d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mock-up.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/logo-groen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/Logo/logo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/navbar/navBar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/navbar/navBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/loginPage/loginPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/loginPage/loginPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/request/request.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/request/request.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/requestList/requestList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/requestPage/requestPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/requestPage/requestPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/.idea/routing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/assets/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/assets/images/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/assets/images/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/components/404/notFound.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/components/app/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/components/app/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/components/app/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/components/contact/contact.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/components/users/users.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/serviceWorker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../test/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../test/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/components/counterList/counter/counter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/components/counterList/counter/counter.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/components/navbar/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/components/navbar/navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/request/request.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/request/request.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/requestList/requestList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/requestList/requestList.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

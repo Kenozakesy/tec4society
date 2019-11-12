@@ -7,6 +7,7 @@ class RequestList extends Component {
     render() {
         return (
             <div>
+                {/*Here need to be list items*/}
                 { this.props.requests.map(request =>
                     <Request
                         key={request.id}
