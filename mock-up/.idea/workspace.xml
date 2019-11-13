@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a7360ab-dced-43d1-9559-3c2476b508d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/requestList/requestList.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/request/request.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/request/request.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/requestList/requestList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/requestList/requestList.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/requestPage/requestPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/requestPage/requestPage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -49,15 +45,15 @@
     <property name="settings.editor.selected.configurable" value="go" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\KoenW\Documents\School\Github\tec4society\mock-up\src\components\homePage" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\KoenW\Documents\School\Github\tec4society\mock-up\src\components" />
       <recent name="C:\Users\KoenW\Documents\School\Github\tec4society\mock-up\src\components\homePage\requestList" />
       <recent name="C:\Users\KoenW\Documents\School\Github\tec4society\mock-up\src\components\homePage" />
       <recent name="C:\Users\KoenW\Documents\School\Github\tec4society\mock-up\src\assets\images" />
       <recent name="C:\Users\KoenW\Documents\School\Github\tec4society\mock-up\src\components\app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KoenW\Documents\School\Github\tec4society\mock-up\src\components\homePage" />
     </key>
   </component>
   <component name="RunDashboard">

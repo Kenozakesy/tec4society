@@ -5,9 +5,9 @@ class Request extends Component {
 
     getStatusClassName = () => {
         const { status } = this.props.request
-        let classes = "font-weight-bold align-middle ";
-        classes += status === "Approved" ? "text-success" : "";
-        classes += status === "Disapproved" ? "text-danger" : "";
+        let classes = "align-middle ";
+        classes += status === "Approved" ? "text-success font-weight-bold" : "";
+        classes += status === "Disapproved" ? "text-danger font-weight-bold" : "";
         //classes += status === "Approved" ? "text-success" : "text-danger";
         return classes;
     }

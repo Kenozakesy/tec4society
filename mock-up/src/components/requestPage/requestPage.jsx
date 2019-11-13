@@ -4,6 +4,12 @@ import RequestList from '../requestList/requestList'
 class RequestPage extends Component {
 
     state = {
+        sort: {
+            sortId: false,
+            sortTitle: false,
+            sortPatientName: false,
+            sortStatus: false
+        },
         requestList: [
             { id: 8090, title: 'test', patient_name: 'Henk', status: 'Pending'},
             { id: 3401, title: 'wheelchair request', patient_name: 'Harry', status: 'Approved'},
@@ -16,8 +22,23 @@ class RequestPage extends Component {
         ],
     }
 
+    constructor(props){
+        super(props)
+    }
+
+    // this.setState({ someProperty: { ...this.state.someProperty, flag: false} });
+
     handleSortID = () => {
-        console.log("test")
+        const requests = [...this.state.requestList];
+        let { sortId } = {...this.state.sort.sortId};
+        if(sortId) {
+            requests.sort(function(a, b){return a.id - b.id});
+            sortId = false;
+        } else {
+            requests.sort(function(a, b){return b.id - a.id});
+            sortId = true;
+        }
+        this.setState({requestList : requests, sortId: sortId})
     }
 
     render() {
