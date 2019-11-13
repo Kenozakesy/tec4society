@@ -1,0 +1,9 @@
+.tableHeader{
+    cursor: pointer;
+}
+
+.tableHeader:hover{
+    background-color: #5cb85c;
+    color: white;
+    transition-duration: 0.25s;
+}
