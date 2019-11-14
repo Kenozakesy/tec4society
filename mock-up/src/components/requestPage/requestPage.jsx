@@ -22,23 +22,44 @@ class RequestPage extends Component {
         ],
     }
 
-    constructor(props){
-        super(props)
-    }
-
-    // this.setState({ someProperty: { ...this.state.someProperty, flag: false} });
 
     handleSortID = () => {
         const requests = [...this.state.requestList];
-        let { sortId } = {...this.state.sort.sortId};
-        if(sortId) {
+        let { sort } = {...this.state};
+        if(sort.sortId) {
             requests.sort(function(a, b){return a.id - b.id});
-            sortId = false;
+            sort.sortId = false;
         } else {
             requests.sort(function(a, b){return b.id - a.id});
-            sortId = true;
+            sort.sortId= true;
         }
-        this.setState({requestList : requests, sortId: sortId})
+        this.setState({requestList : requests, sort: sort})
+    }
+
+    handleSortTitle = () => {
+        const requests = [...this.state.requestList];
+        let { sort } = {...this.state};
+        if(sort.sortTitle) {
+            requests.sort(function(a, b){if(a.title > b.title) return 1; if(a.title < b.title) return -1; else return 0;});
+            sort.sortTitle = false;
+        } else {
+            requests.sort(function(a, b){if(a.title > b.title) return -1; if(a.title < b.title) return 1; else return 0;});
+            sort.sortTitle= true;
+        }
+        this.setState({requestList : requests, sort: sort})
+    }
+
+    handleSortPatientName = () => {
+        const requests = [...this.state.requestList];
+        let { sort } = {...this.state};
+        if(sort.sortId) {
+            requests.sort(function(a, b){return a.id - b.id});
+            sort.sortId = false;
+        } else {
+            requests.sort(function(a, b){return b.id - a.id});
+            sort.sortId= true;
+        }
+        this.setState({requestList : requests, sort: sort})
     }
 
     render() {
@@ -47,7 +68,8 @@ class RequestPage extends Component {
                 <h1 className="m-3">RequestPage</h1>
                 <RequestList
                     requests={this.state.requestList}
-                    onSort={this.handleSortID}
+                    onSortId={this.handleSortID} //waarop gesorteterd welke kant
+                    onSortTitle={this.handleSortTitle}
                 />
             </div>
         )

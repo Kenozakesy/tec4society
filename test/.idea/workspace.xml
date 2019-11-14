@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="af93a00d-d96c-4b3e-af79-2628c97fb039" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../mock-up/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mock-up/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mock-up/src/components/request/request.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../mock-up/src/components/request/request.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mock-up/src/components/requestPage/requestPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../mock-up/src/components/requestPage/requestPage.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

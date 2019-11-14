@@ -4,8 +4,8 @@ import './requestList.css'
 
 class RequestList extends Component {
     requests;
-
-
+    onSortTitle;
+    onSortId;
 
     render() {
         return (
@@ -13,8 +13,8 @@ class RequestList extends Component {
                 <table className="table table-striped">
                     <thead>
                         <tr>
-                            <th onClick={this.props.onSort} className="tableHeader">ID</th>
-                            <th className="tableHeader">Title</th>
+                            <th onClick={this.props.onSortId} className="tableHeader">ID</th>
+                            <th onClick={this.props.onSortTitle} className="tableHeader">Title</th>
                             <th className="tableHeader">Patient Name</th>
                             <th className="tableHeader">Status</th>
                             <th></th>

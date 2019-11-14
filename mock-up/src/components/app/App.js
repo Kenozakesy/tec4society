@@ -7,7 +7,6 @@ import HomePage from "../requestPage/requestPage";
 function App() {
   return (
     <React.Fragment>
-        <Logo></Logo>
         <NavBar></NavBar>
         <HomePage></HomePage>
     </React.Fragment>
